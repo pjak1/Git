@@ -1,1 +1,1 @@
-Toto je můj první soubor zdar.
+.Toto je můj první soubor zdar.
